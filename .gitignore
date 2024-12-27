@@ -1,0 +1,10 @@
+*.mp4
+*.json
+*.csv
+*.pt
+*.zip
+*.onnx
+*.engine
+*.cache
+**/__pycache__/
+**/*.pyc
